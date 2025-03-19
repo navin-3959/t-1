@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroSection from "../components/Herosection";
-import ServiceCards from "../components/ServiceCards";
+import ServiceCards from "../components/Servicecards";
 import PricingTable from "../components/PricingTable";
 import Contact from "../components/Contact";
 import UserList from '../components/Userlist';
